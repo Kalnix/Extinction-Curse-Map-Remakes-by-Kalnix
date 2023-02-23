@@ -1,0 +1,482 @@
+{
+  "name": "Soldier's Trial",
+  "navigation": true,
+  "navOrder": 800000,
+  "navName": "",
+  "background": {
+    "src": "Extinction%20Curse/Soldier%27s%20Trial.webp",
+    "scaleX": 1,
+    "scaleY": 1,
+    "offsetX": 0,
+    "offsetY": 0,
+    "rotation": 0,
+    "tint": null
+  },
+  "foreground": null,
+  "foregroundElevation": 20,
+  "thumb": "worlds/extinction-curse-maps/assets/scenes/pbNUUaxkcaf2AElP-thumb.webp",
+  "width": 3000,
+  "height": 3000,
+  "padding": 0.25,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": null
+  },
+  "backgroundColor": "#999999",
+  "grid": {
+    "type": 1,
+    "size": 100,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 5,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fogExploration": true,
+  "fogReset": 1676943645850,
+  "globalLight": false,
+  "globalLightThreshold": null,
+  "darkness": 0,
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [
+    {
+      "_id": "AgtQqVumwqJPmMx9",
+      "c": [
+        762,
+        2250,
+        1150,
+        2262
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "qAVrx2ERXv6UkZ8B",
+      "c": [
+        1150,
+        2262,
+        1400,
+        2250
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "fZ04FSUjjQC3Mb1u",
+      "c": [
+        1400,
+        2250,
+        1612,
+        2250
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "PrxVldO8RMBvzrMR",
+      "c": [
+        1612,
+        2250,
+        1800,
+        2237
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "uaJdt7U6yBAa15O6",
+      "c": [
+        1800,
+        2237,
+        1950,
+        2200
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "C3kgqWooQ31lxaeS",
+      "c": [
+        1950,
+        2200,
+        2100,
+        2150
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "HWQpQkdKlxk7xMkf",
+      "c": [
+        2100,
+        2150,
+        2212,
+        2037
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "x8nGI6LZ3jpAWDxL",
+      "c": [
+        2212,
+        2037,
+        2250,
+        1900
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "abrWoYmOIZTibQmu",
+      "c": [
+        2250,
+        1900,
+        2275,
+        1712
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "LOQClH7wdP2Lyd5F",
+      "c": [
+        2275,
+        1712,
+        2325,
+        1575
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "JSI7WUi8JOUGnBUO",
+      "c": [
+        2325,
+        1575,
+        2375,
+        1450
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "ysNJvltcCpU6vCc8",
+      "c": [
+        2375,
+        1450,
+        2462,
+        1362
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "9dgBPeCrumlWD4Al",
+      "c": [
+        2462,
+        1362,
+        2600,
+        1300
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "dGf74or59eGoA99n",
+      "c": [
+        2600,
+        1300,
+        2800,
+        1287
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "CZWaP9EiP3EvcEBh",
+      "c": [
+        2800,
+        1287,
+        2900,
+        1312
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "BN1x1Ez1Ai1Xmdlq",
+      "c": [
+        775,
+        1112,
+        950,
+        1187
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "81k4nnPMNDo5rns0",
+      "c": [
+        950,
+        1187,
+        1025,
+        1212
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "J2fMw2WBid92KzKs",
+      "c": [
+        1025,
+        1212,
+        1112,
+        1175
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "XThE2FNuMZY4AyGL",
+      "c": [
+        1112,
+        1175,
+        1175,
+        1100
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "ZLZsV8oCPVxSocml",
+      "c": [
+        1175,
+        1100,
+        1287,
+        1025
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "r33h9qd4GX0aROAz",
+      "c": [
+        1287,
+        1025,
+        1400,
+        975
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "2EU8gxN3Fdo6WCOr",
+      "c": [
+        1400,
+        975,
+        1462,
+        937
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "bl97GIMxA1V4ML5K",
+      "c": [
+        1462,
+        937,
+        1487,
+        875
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    },
+    {
+      "_id": "a12CFSbBCDfHVKUx",
+      "c": [
+        1487,
+        875,
+        1512,
+        762
+      ],
+      "light": 20,
+      "move": 0,
+      "sight": 20,
+      "sound": 20,
+      "dir": 2,
+      "door": 0,
+      "ds": 0,
+      "flags": {}
+    }
+  ],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "journalEntryPage": null,
+  "weather": "",
+  "flags": {
+    "exportSource": {
+      "world": "extinction-curse-maps",
+      "system": "pf2e",
+      "coreVersion": "10.291",
+      "systemVersion": "4.8.0"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.8.0",
+    "coreVersion": "10.291",
+    "createdTime": 1676943645852,
+    "modifiedTime": 1677165078818,
+    "lastModifiedBy": "198TlL0VFEqVzEHb"
+  }
+}
